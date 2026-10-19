@@ -7,6 +7,7 @@ public abstract class AbstractClass {
 	//abstract constructor
 	AbstractClass(){
 		System.out.println("This is abstract class constructor");
+		System.out.println("additional line added to commit to git");
 	}
 	
 	void mileage() {

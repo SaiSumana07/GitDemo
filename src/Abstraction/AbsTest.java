@@ -7,6 +7,8 @@ public class AbsTest extends AbstractClass {
 		// TODO Auto-generated method stub
 		System.out.println("please run");
 		System.out.println("additional line added to commit to git");
+		System.out.println("additional line added to commit to git");
+		System.out.println("additional line added to commit to git");
 		
 	}
 	
