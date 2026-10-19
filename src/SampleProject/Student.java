@@ -19,6 +19,8 @@ public class Student {
 		System.out.println("Student name: "+name);
 		System.out.println("Total marks: "+total);
 		average=total/3;
+		System.out.println("In develop branch");
+		System.out.println("In develop branch");
 		System.out.println("Average marks: "+average);
 		if(average>70) {
 			result="Pass";
